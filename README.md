@@ -12,7 +12,7 @@ English / [简体中文](./README_CN.md)
 
 ✨ Light and Fast AI Assistant,with Claude, DeepSeek, GPT4 & Gemini Pro support.
 
-[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image]][saas-url] 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
 [![MacOS][MacOS-image]][download-url]
